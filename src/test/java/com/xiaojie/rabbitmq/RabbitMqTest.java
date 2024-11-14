@@ -10,6 +10,7 @@ import org.springframework.beans.factory.annotation.Autowired;
  * @create: 2020-06-03 10:27
  **/
 public class RabbitMqTest {
+
     @Autowired
     private MQSender sender;
 
